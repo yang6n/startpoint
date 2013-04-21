@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.estudio.archetypes</groupId>
 	<artifactId>startpoint</artifactId>
-	<version>0.0.6</version>
+	<version>0.0.7-SNAPSHOT</version>
 	<name>startpoint</name>
 	<description>archetypes startpoint</description>
 
@@ -41,6 +41,6 @@
 	<scm>
 		<connection>scm:git:https://github.com/yang6n/startpoint.git</connection>
 		<developerConnection>scm:git:https://github.com/yang6n/startpoint.git</developerConnection>
-	  <tag>v0.0.6</tag>
+	  <tag>HEAD</tag>
   </scm>
 </project>

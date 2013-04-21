@@ -1,0 +1,4 @@
+startpoint
+==========
+
+maven startpoint
